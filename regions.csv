@@ -1416,7 +1416,7 @@ Brazil.regions.PB:Lagoa,4666.0,177.902,26.227923238637004,24,4
 Brazil.regions.PB:Lagoa Seca,27503.0,107.603,255.59696290995606,47,4
 Brazil.regions.PB:Lagoa de Dentro,7719.0,84.508,91.34046480806552,33,4
 Brazil.regions.PB:Lastro,2737.0,102.669,26.65848503443104,28,4
-Brazil.regions.PB:Livramento,7256.0,270.753,26.799333710060463,2,4
+Brazil.regions.PB:Livramento,7256.0,270.753,26.799333710060463,16,4
 Brazil.regions.PB:Logradouro,4332.0,37.996,114.01200126329087,28,4
 Brazil.regions.PB:Lucena,13080.0,89.204,146.63019595533834,46,4
 Brazil.regions.PB:Malta,5759.0,173.377,33.21663196387064,33,4
@@ -1499,6 +1499,7 @@ Brazil.regions.PB:São José da Lagoa Tapada,7630.0,341.806,22.322604050250728,2
 Brazil.regions.PB:São José de Caiana,6359.0,176.327,36.0636771453039,28,4
 Brazil.regions.PB:São José de Espinharas,4682.0,725.656,6.4520930027451024,43,4
 Brazil.regions.PB:São José de Piranhas,20251.0,677.305,29.899380633540282,45,4
+Brazil.regions.PB:São José de Princesa,4003.0,158.023,25.33175550394563,1,4
 Brazil.regions.PB:São José do Bonfim,3557.0,134.724,26.402125827617947,46,4
 Brazil.regions.PB:São José do Sabugi,4141.0,206.917,20.012855396125016,33,4
 Brazil.regions.PB:São José dos Cordeiros,3628.0,376.793,9.628628981960917,25,4
@@ -5627,6 +5628,7 @@ Brazil.regions.TO:Santa Rosa do Tocantins,4829.0,1796.257,2.688368089866873,21,2
 Brazil.regions.TO:São Félix do Tocantins,1585.0,1908.678,0.8304177027240843,1,24
 Brazil.regions.TO:São Salvador do Tocantins,3082.0,1422.032,2.1673211292010306,9,24
 Brazil.regions.TO:São Valério,3960.0,2519.585,1.5716874009013388,1,24
+Brazil.regions.TO:Taguatinga,16683.0,2437.399,6.84459130409096,1,24
 Brazil.regions.TO:Talismã,2793.0,2156.894,1.294917599103155,7,24
 Brazil.regions.TO:Tocantínia,7545.0,2601.603,2.900135032132112,24,24
 Brazil.regions.TO:Wanderlândia,11683.0,1373.059,8.508738517427146,45,24
